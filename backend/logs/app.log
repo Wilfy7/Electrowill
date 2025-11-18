@@ -1,0 +1,198 @@
+2025-10-18 03:40:58 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-18 03:43:12 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-18 23:04:01 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-18 23:04:31 [[31merror[39m]: MongoDB connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-10-18 23:12:20 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-18 23:12:21 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-10-19 00:20:01 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-19 00:20:01 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-10-19 01:04:34 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-19 01:04:34 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-10-19 01:05:28 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-19 01:05:29 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-10-19 01:06:18 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-19 01:06:19 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-10-19 01:06:38 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-19 01:06:39 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-10-20 23:55:46 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-20 23:56:16 [[31merror[39m]: MongoDB connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-10-21 00:01:47 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-21 00:01:48 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-10-21 00:03:07 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-21 00:03:08 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-10-21 00:12:31 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-21 00:12:32 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-10-21 00:12:41 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-21 00:12:42 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-10-21 00:12:52 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-21 00:12:53 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-10-21 00:27:30 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-21 00:27:30 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-10-21 00:28:01 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-21 00:28:02 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-10-21 00:37:41 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-21 00:37:42 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-10-21 00:38:09 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-21 00:38:09 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-10-22 00:14:58 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-22 00:15:29 [[31merror[39m]: MongoDB connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-10-22 00:17:30 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-22 00:18:00 [[31merror[39m]: MongoDB connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-10-22 00:19:15 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-22 00:19:45 [[31merror[39m]: MongoDB connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-10-22 00:20:33 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-22 00:21:03 [[31merror[39m]: MongoDB connection error: MongooseServerSelectionError: Could not connect to any servers in your MongoDB Atlas cluster. One common reason is that you're trying to access the database from an IP that isn't whitelisted. Make sure your current IP address is on your Atlas cluster's IP whitelist: https://www.mongodb.com/docs/atlas/security-whitelist/
+2025-10-22 00:23:01 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-22 00:23:02 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-10-22 00:32:49 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-22 00:32:50 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-10-22 00:38:05 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-22 00:38:06 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-10-22 00:38:31 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-22 00:38:32 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-10-22 00:39:03 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-22 00:39:04 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-10-27 22:56:25 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-10-27 22:56:26 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-01 00:39:09 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 00:39:10 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-01 00:44:25 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 00:44:26 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-01 00:44:31 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 00:44:32 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-01 00:56:38 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 00:56:38 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-01 00:59:06 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 00:59:06 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-01 00:59:18 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 00:59:18 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-01 01:00:31 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 01:00:31 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-01 01:00:43 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 01:00:44 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-01 01:00:58 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 01:00:59 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-01 01:31:46 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 01:31:46 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-01 02:00:22 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 02:00:23 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-01 02:08:57 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 02:08:57 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-01 02:16:49 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 02:16:50 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-01 02:31:50 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 02:31:51 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-01 23:57:05 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 23:57:05 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-01 23:59:24 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-01 23:59:24 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-03 22:31:15 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-03 22:31:16 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-03 23:48:21 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-03 23:48:22 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-10 00:34:37 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-10 00:34:38 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-10 00:36:29 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-10 00:36:29 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-10 00:44:37 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-10 00:44:39 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-10 00:47:05 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-10 00:47:05 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-10 01:19:46 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-10 01:19:47 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-10 01:23:19 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-10 01:23:20 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-10 01:49:50 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-10 01:49:51 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-10 01:50:22 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-10 01:50:23 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-10 01:52:21 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-10 01:52:22 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 00:30:19 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 00:30:20 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 00:30:40 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 00:30:40 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 00:38:24 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 00:38:24 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-11 00:40:30 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 00:40:31 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 00:40:36 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 00:40:37 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 00:47:05 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 00:47:06 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-11 00:49:23 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 00:49:24 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-11 23:21:03 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:21:04 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-11 23:21:44 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:21:44 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-11 23:22:07 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:22:07 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-11 23:22:38 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:22:39 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-11 23:32:16 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:32:17 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 23:34:40 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:34:40 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-11 23:41:39 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:41:39 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 23:44:43 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:44:44 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 23:50:28 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:50:29 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 23:50:48 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:50:48 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 23:51:21 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:51:22 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-11 23:51:38 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:51:39 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-11 23:53:07 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:53:08 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-11 23:57:30 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:57:31 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-11 23:57:59 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:57:59 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-11 23:58:12 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-11 23:58:13 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-12 00:00:40 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:00:41 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-12 00:03:06 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:03:06 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-12 00:03:29 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:03:29 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-12 00:03:52 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:03:52 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-12 00:26:49 [[31merror[39m]: Error creating user: Cannot destructure property 'name' of 'req.body' as it is undefined.
+2025-11-12 00:31:08 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:31:11 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-12 00:32:47 [[31merror[39m]: Error creating user: Cannot destructure property 'name' of 'req.body' as it is undefined.
+2025-11-12 00:33:24 [[31merror[39m]: Error creating user: Cannot destructure property 'name' of 'req.body' as it is undefined.
+2025-11-12 00:34:25 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:34:25 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-12 00:37:22 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:37:23 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-12 00:37:40 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:37:42 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-12 00:37:43 [[31merror[39m]: Error creating user: Cannot destructure property 'name' of 'req.body' as it is undefined.
+2025-11-12 00:38:06 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:38:07 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-12 00:38:12 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:38:13 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-12 00:43:51 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:43:52 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-01.kinfoby.mongodb.net
+2025-11-12 00:44:05 [[31merror[39m]: Error creating user: Cannot destructure property 'name' of 'req.body' as it is undefined.
+2025-11-12 00:46:34 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:46:35 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-12 00:46:39 [[31merror[39m]: Error creating user: colors[Colorizer.allColors[lookup]] is not a function
+2025-11-12 00:46:59 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:46:59 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-12 00:47:01 [[31merror[39m]: Error creating user: colors[Colorizer.allColors[lookup]] is not a function
+2025-11-12 00:47:24 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:47:25 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-00.kinfoby.mongodb.net
+2025-11-12 00:47:49 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:47:49 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-12 00:48:08 [[31merror[39m]: Error creating user: colors[Colorizer.allColors[lookup]] is not a function
+2025-11-12 00:48:31 [[32minfo[39m]: Server is running on http://localhost:5004
+2025-11-12 00:48:31 [[32minfo[39m]: MongoDB connected: ac-e1nrju9-shard-00-02.kinfoby.mongodb.net
+2025-11-12 00:48:43 [[31merror[39m]: Error creating user: colors[Colorizer.allColors[lookup]] is not a function
+2025-11-12 00:52:05 [[31merror[39m]: Error creating user: colors[Colorizer.allColors[lookup]] is not a function

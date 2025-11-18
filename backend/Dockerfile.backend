@@ -1,0 +1,15 @@
+FROM node:24.7.0
+
+WORKDIR /app
+
+COPY package*.json ./
+
+RUN npm install -g yarn --force
+
+RUN yarn install
+
+COPY . .
+
+EXPOSE 5004
+
+CMD ["yarn", "dev"]
